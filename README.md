@@ -1,3 +1,3 @@
 # Kodluyoruz Bootstrap Ödev 1
 
-Kodluyoruz CSS dersinin birinci ödevi
+Kodluyoruz bootstrap dersinin birinci ödevi
